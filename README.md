@@ -15,5 +15,6 @@ High Business value
 
 Bad Performance is Event Souring Solution to use.
 
+![Screenshot](storingevents.png)
 
 
